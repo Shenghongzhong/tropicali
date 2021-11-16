@@ -1,4 +1,4 @@
-Colors –
+    Colors –
 Red: #f70201
 Brown: #ca774a
 White: #ffffff
